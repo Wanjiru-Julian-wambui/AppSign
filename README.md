@@ -1,1 +1,1 @@
-# AppSign: app
+# AppSign: app.
